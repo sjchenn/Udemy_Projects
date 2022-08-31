@@ -1,4 +1,4 @@
-# Udemy_Projects
+# Udemy Projects
 Deep learning projects from Udemy courses
 
 ## Description 
